@@ -7,7 +7,7 @@ a collaborative text editor with online judge
 - Using Redis and socket connection for fast processing
 
 
-### Tack Stack
+### Tech Stack
 
 - Angular, Bootstrap
 - Express Nodejs 
