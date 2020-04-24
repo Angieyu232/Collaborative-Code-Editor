@@ -1,5 +1,4 @@
-# Leetcode-Clone
-a collaborative text editor with online judge
+# a collaborative text editor with online judge (compiler)
 
 
 - A web-based code editor that support multiple users to edit simultaneously
