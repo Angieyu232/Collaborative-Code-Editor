@@ -1,4 +1,5 @@
-# a collaborative text editor with online judge (compiler)
+# A Collaborative Code Editor With Online Judge (Compiler)
+### CS503 Spring 2019
 
 
 - A web-based code editor that support multiple users to edit simultaneously
